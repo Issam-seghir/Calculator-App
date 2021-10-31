@@ -74,6 +74,6 @@ in your **terminal**_**/**_**cmd** :
 `python path/main.py`
 
 ## 3. License
-
+> You can check out the full license (here)[https://github.com/Issam-seghir/Calculator-App/edit/master/LICENSE]
 - This programme is under GPLv3 license
 - [QDarkGrayStyle](https://github.com/mstuttgart/qdarkgraystyle/tree/master) is under MIT license
