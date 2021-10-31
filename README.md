@@ -1,4 +1,4 @@
-# Calculator Application V1
+# Calculator Application 
 
 [![GitHub Stars](https://img.shields.io/github/stars/Issam-seghir/CalculatorApp-v1)](https://github.com/Issam-seghir/CalculatorApp-v1/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/Issam-seghir/CalculatorApp-v1)](https://github.com/Issam-seghir/CalculatorApp-v1/issues) [![Current Version](https://img.shields.io/badge/version-1.0-yellow.svg)](https://github.com/Issam-seghir/CalculatorApp-v1)
 
