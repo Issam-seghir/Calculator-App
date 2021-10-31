@@ -69,9 +69,7 @@ if you want to use **PyQt5** :
 
 ## 2. Launch
 
-Launch **calculator.exe**
-
-or in your **terminal**_**/**_**cmd** :
+in your **terminal**_**/**_**cmd** :
 
 `python path/main.py`
 
