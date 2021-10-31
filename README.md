@@ -20,12 +20,6 @@ Simple **calculator** with **random** number button and **_dark gray theme_** cr
 
 ## Table of contents
 
-- [Calculator Application V1](#calculator-application-v1)
-  - [**on Windows 10**](#on-windows-10)
-  - [!in windows](#)
-  - [**on Linux Ubuntu 20.04**](#on-linux-ubuntu-2004)
-  - [!in linux](#-1)
-  - [Table of contents](#table-of-contents)
   - [1. Setup](#1-setup)
     - [1.1. install python 3.x](#11-install-python-3x)
     - [1.2. install PyQt6](#12-install-pyqt6)
